@@ -1,7 +1,7 @@
-# 🌾 Cropify — Crop Yield Prediction System
+# 🌾  Crop Yield Prediction System
 
 ## 🧠 Overview
-**Cropify** is a machine learning-based system designed to predict **crop yield** using key **environmental** and **soil** parameters such as rainfall, temperature, and soil type.  
+**Crop Yield Prediction System** is a machine learning-based system designed to predict **crop yield** using key **environmental** and **soil** parameters such as rainfall, temperature, and soil type.  
 This project aims to assist farmers, agricultural planners, and researchers in optimizing crop production by providing accurate yield forecasts based on real-world data.
 
 ---
@@ -28,7 +28,7 @@ This project aims to assist farmers, agricultural planners, and researchers in o
 ---
 
 ## 📂 Project Structure
-Cropify/
+Crop Yield Prediction System/
 │
 ├── data/ # Dataset files (CSV or Excel)
 ├── notebooks/ # Jupyter notebooks for analysis
